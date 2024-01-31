@@ -1,2 +1,4 @@
-# TEXT-DETECTION-AND-ANALYSIS-USING-TKINTER-AND-VADER-SENTIMENT-ANALYSIS
-A system that can understand the sentiment behind the text (like  human does), and show the positive and negative Sentiment behind the text through Graphical User Interface.
+# MOVIE RECOMMENDATION SYSTEM USING 
+MACHINE LEARNING WITH PYTHON
+This project is to make is system that can take user input and suggest movie 
+based on input given by the user in the form of a movie name.
